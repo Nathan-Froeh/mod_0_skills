@@ -1,0 +1,14 @@
+1. be seated
+1.1 enter restaurant
+1.2 tell host number of guests
+1.3 host takes you to table
+2. decide what to order
+2.1 be hungry
+2.2 look over menu until you find something that sounds good
+3. give order to waiter
+3.1 wait for waiter to return
+3.2 take turns giving order to waiter
+4. wait for food
+4.1 engage in social interaction while waiting for food
+4.2 food arrives
+4.3 dig in
