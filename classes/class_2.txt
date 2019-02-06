@@ -1,4 +1,8 @@
 appetizers
 
+attribute
 single person integer
 multi person integer
+
+method
+snack

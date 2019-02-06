@@ -1,5 +1,9 @@
 drinks
 
+attribute
 name string
 alcohol boolean
 color string
+
+method
+drink

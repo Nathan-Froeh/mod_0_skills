@@ -1,5 +1,9 @@
 entree
 
+attribute
 american string
 itallian string
 mexican string
+
+method
+main food
