@@ -1,0 +1,5 @@
+drinks
+
+name string
+alcohol boolean
+color string
